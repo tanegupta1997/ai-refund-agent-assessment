@@ -1,0 +1,6 @@
+return_window_days: 30
+escalation_threshold_usd: 500
+final_sale_refundable: false
+defective_extended_window_days: 60
+defective_requires_evidence: true
+shipping_refundable_on_defect: true

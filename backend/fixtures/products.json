@@ -1,0 +1,66 @@
+[
+  {
+    "product_id": "PROD001",
+    "name": "Wireless Headphones",
+    "category": "electronics",
+    "unit_price": 89.99,
+    "is_final_sale": false,
+    "is_refundable_default": true
+  },
+  {
+    "product_id": "PROD002",
+    "name": "Designer Handbag",
+    "category": "fashion",
+    "unit_price": 349.99,
+    "is_final_sale": false,
+    "is_refundable_default": true
+  },
+  {
+    "product_id": "PROD003",
+    "name": "Vintage Dress",
+    "category": "fashion",
+    "unit_price": 199.99,
+    "is_final_sale": true,
+    "is_refundable_default": false
+  },
+  {
+    "product_id": "PROD004",
+    "name": "Laptop Pro 15",
+    "category": "electronics",
+    "unit_price": 1299.99,
+    "is_final_sale": false,
+    "is_refundable_default": true
+  },
+  {
+    "product_id": "PROD005",
+    "name": "Running Shoes",
+    "category": "footwear",
+    "unit_price": 129.99,
+    "is_final_sale": false,
+    "is_refundable_default": true
+  },
+  {
+    "product_id": "PROD006",
+    "name": "Coffee Maker",
+    "category": "appliances",
+    "unit_price": 79.99,
+    "is_final_sale": false,
+    "is_refundable_default": true
+  },
+  {
+    "product_id": "PROD007",
+    "name": "Bluetooth Speaker",
+    "category": "electronics",
+    "unit_price": 59.99,
+    "is_final_sale": true,
+    "is_refundable_default": false
+  },
+  {
+    "product_id": "PROD008",
+    "name": "Yoga Mat",
+    "category": "fitness",
+    "unit_price": 45.00,
+    "is_final_sale": false,
+    "is_refundable_default": true
+  }
+]

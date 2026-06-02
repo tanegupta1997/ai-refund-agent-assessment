@@ -1,0 +1,122 @@
+[
+  {
+    "customer_id": "CUST001",
+    "name": "James Wilson",
+    "email": "james.wilson@gmail.com",
+    "phone": "555-0101",
+    "loyalty_tier": "standard",
+    "created_at": "2022-03-15T09:00:00"
+  },
+  {
+    "customer_id": "CUST002",
+    "name": "Sarah Chen",
+    "email": "sarah.chen@outlook.com",
+    "phone": "555-0102",
+    "loyalty_tier": "standard",
+    "created_at": "2022-04-20T11:30:00"
+  },
+  {
+    "customer_id": "CUST003",
+    "name": "Michael Torres",
+    "email": "michael.torres@yahoo.com",
+    "phone": null,
+    "loyalty_tier": "standard",
+    "created_at": "2022-06-10T14:15:00"
+  },
+  {
+    "customer_id": "CUST004",
+    "name": "Emily Johnson",
+    "email": "emily.johnson@gmail.com",
+    "phone": "555-0104",
+    "loyalty_tier": "standard",
+    "created_at": "2022-07-05T08:45:00"
+  },
+  {
+    "customer_id": "CUST005",
+    "name": "Daniel Kim",
+    "email": "daniel.kim@gmail.com",
+    "phone": "555-0105",
+    "loyalty_tier": "standard",
+    "created_at": "2022-08-12T16:00:00"
+  },
+  {
+    "customer_id": "CUST006",
+    "name": "Rachel Martinez",
+    "email": "rachel.martinez@outlook.com",
+    "phone": "555-0106",
+    "loyalty_tier": "standard",
+    "created_at": "2022-09-18T10:20:00"
+  },
+  {
+    "customer_id": "CUST007",
+    "name": "Tyler Brown",
+    "email": "tyler.brown@gmail.com",
+    "phone": null,
+    "loyalty_tier": "standard",
+    "created_at": "2022-10-22T13:00:00"
+  },
+  {
+    "customer_id": "CUST008",
+    "name": "Amanda Davis",
+    "email": "amanda.davis@yahoo.com",
+    "phone": "555-0108",
+    "loyalty_tier": "standard",
+    "created_at": "2022-11-30T09:30:00"
+  },
+  {
+    "customer_id": "CUST009",
+    "name": "Kevin Lee",
+    "email": "kevin.lee@gmail.com",
+    "phone": "555-0109",
+    "loyalty_tier": "standard",
+    "created_at": "2023-01-14T12:00:00"
+  },
+  {
+    "customer_id": "CUST010",
+    "name": "Jessica White",
+    "email": "jessica.white@outlook.com",
+    "phone": "555-0110",
+    "loyalty_tier": "standard",
+    "created_at": "2023-02-28T15:45:00"
+  },
+  {
+    "customer_id": "CUST011",
+    "name": "Christopher Harris",
+    "email": "christopher.harris@gmail.com",
+    "phone": "555-0111",
+    "loyalty_tier": "silver",
+    "created_at": "2021-05-17T10:00:00"
+  },
+  {
+    "customer_id": "CUST012",
+    "name": "Natalie Clark",
+    "email": "natalie.clark@yahoo.com",
+    "phone": "555-0112",
+    "loyalty_tier": "silver",
+    "created_at": "2021-08-03T08:15:00"
+  },
+  {
+    "customer_id": "CUST013",
+    "name": "Brian Lewis",
+    "email": "brian.lewis@gmail.com",
+    "phone": null,
+    "loyalty_tier": "silver",
+    "created_at": "2021-11-25T17:30:00"
+  },
+  {
+    "customer_id": "CUST014",
+    "name": "Olivia Thompson",
+    "email": "olivia.thompson@outlook.com",
+    "phone": "555-0114",
+    "loyalty_tier": "gold",
+    "created_at": "2020-06-09T09:00:00"
+  },
+  {
+    "customer_id": "CUST015",
+    "name": "Robert Anderson",
+    "email": "robert.anderson@gmail.com",
+    "phone": "555-0115",
+    "loyalty_tier": "gold",
+    "created_at": "2020-12-31T23:00:00"
+  }
+]
