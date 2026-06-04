@@ -12,6 +12,7 @@ class Settings(BaseSettings):
     LLM_MAX_RETRIES: int = 2
     DATABASE_URL: str = "sqlite:///./refund_agent.db"
     ADMIN_SECRET: str = "changeme"
+    ALLOWED_ORIGINS: str = "http://localhost:3000"
 
     class Config:
         env_file = ".env"
