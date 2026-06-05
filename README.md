@@ -4,6 +4,25 @@ A full-stack AI system that handles customer refund requests end-to-end — from
 
 ---
 
+## Try It Live
+
+**Chat:** [https://ai-refund-agent-assessment.vercel.app](https://ai-refund-agent-assessment.vercel.app)
+
+Use one of the seeded test accounts below. Just tell the agent your email and order ID in plain language — no special format needed.
+
+| Scenario | Email | Order | Expected outcome |
+|---|---|---|---|
+| Standard refund | `sarah.chen@outlook.com` | ORD002 | ✅ Approved — running shoes, within return window |
+| Large order | `james.wilson@gmail.com` | ORD007 | ⚠️ Escalated — laptop over $500 threshold |
+| Changed mind | `emily.johnson@gmail.com` | ORD004 | ✅ Approved — within return window |
+| Defective item | `michael.torres@yahoo.com` | ORD003 | ✅ Approved — mention it arrived damaged |
+
+**Example message to get started:**
+
+> *"Hi, I'm sarah.chen@outlook.com. I'd like a refund for order ORD002 — the running shoes don't fit."*
+
+---
+
 ## Architecture Overview
 
 The system has three main components:
